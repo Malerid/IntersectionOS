@@ -95,7 +95,7 @@ using namespace std;
     }
 	};
 
-	queue n("north"), s("south"), w("west"), e("east");
+	queue n("North"), s("South"), w("West"), e("East");
 
 	/*
      * Control thread CPU
